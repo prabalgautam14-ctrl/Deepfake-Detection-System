@@ -1,4 +1,4 @@
-#Deepfake Detection System
+Deepfake Detection System
 
 A production-grade deepfake detection system using deep learning, built with PyTorch and Streamlit. Detects GAN-generated faces (StyleGAN/PGGAN), diffusion-generated faces (Stable Diffusion/FLUX/SDXL), and face-swap deepfakes (DFDC-style), with a three-model calibrated ensemble, REST API, audio-visual sync detection, face identity tracking, and a full forensic analysis suite.
 
